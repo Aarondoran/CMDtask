@@ -31,7 +31,7 @@ A terminal-based task manager with a colorful interface, due date tracking, and 
    ```
    3. (Optional) Add an alias to your .bashrc or .zshrc:
    ```
-   alias CMDtask='bash ~/CMDtask.sh'
+   alias CMDtask='source ~/CMDtask.sh'
    ```
    ## Usage
    ```

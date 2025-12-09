@@ -1,5 +1,5 @@
 # CMDtask
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Aarondoran/CMDtask) ![GitHub License](https://img.shields.io/github/license/Aarondoran/CMDtask)
 A terminal-based task manager with a colorful interface, due date tracking, and priorities.
 
 ## Features
